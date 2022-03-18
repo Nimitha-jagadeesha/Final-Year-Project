@@ -1,0 +1,6 @@
+,Precision,Recall,F-score
+Tradic Closure,0.96,0.68,0.84
+Jaccard,0.88,0.75,0.83
+Resource Allocation,0.63,0.59,0.61
+ Adamic Adar Index,0.92,0.555,0.66
+Preferential Attachment,0.625,0.7,0.6
